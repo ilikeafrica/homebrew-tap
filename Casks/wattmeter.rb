@@ -1,6 +1,6 @@
 cask "wattmeter" do
-  version "1.1"
-  sha256 "20613b48416cef94d73a2576492745e7ee537b77c598e960b3fbae4e6258eafd"
+  version "1.1.1"
+  sha256 "cf58202e0f57d5d7387181664c413326d098c387edb031acb9a37c035c6a3fce"
 
   url "https://github.com/ilikeafrica/wattmeter/releases/download/v#{version}/WattMeter-#{version}.dmg"
   name "WattMeter"
